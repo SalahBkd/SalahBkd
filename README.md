@@ -25,7 +25,7 @@
 
 <p align="left">
   <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,kafka,openapi,junit,oracle,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,kafka,postgres,mongodb" />
   <br/>
   <!-- Frontend -->
   <img src="https://skillicons.dev/icons?i=react,redux,angular,typescript,javascript,html,css,tailwind,jest" />
