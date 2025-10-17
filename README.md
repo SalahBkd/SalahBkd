@@ -25,7 +25,7 @@
 
 ### 🖥️ Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,kafka,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,kafka,postgres,mongodb,jwt,openapi" />
 </p>
 
 ### 💻 Frontend
