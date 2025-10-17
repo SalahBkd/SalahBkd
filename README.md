@@ -38,9 +38,17 @@
 
 ## 📫 Connect
 
-<p align="left">
-  <a href="mailto:salaheddine.boukadi@outlook.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
-  <a href="https://linkedin.com/in/salahbkd"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/salahbkd">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:salaheddine.boukadi@outlook.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Let’s connect — open to collaboration, learning, and innovative projects.</i>
 </p>
 
 ---
