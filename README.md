@@ -25,13 +25,13 @@
 
 <p align="left">
   <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,oracle,docker,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,kafka,openapi,junit,oracle,postgres,mongodb" />
   <br/>
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react,redux,angular,typescript,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,redux,angular,typescript,javascript,html,css,tailwind,jest" />
   <br/>
   <!-- DevOps & Tools -->
-  <img src="https://skillicons.dev/icons?i=jenkins,git,github,gitlab,linux,idea,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,linux,docker,jenkins,github,gitlab,bitbucket,aws,idea,vscode" />
 </p>
 
 ---
