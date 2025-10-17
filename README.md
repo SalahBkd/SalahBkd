@@ -21,6 +21,21 @@
 
 ---
 
+## 🧰 Tech Stack
+
+<p align="left">
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,postgres,oracle,docker,kubernetes" />
+  <br/>
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,redux,angular,typescript,javascript,html,css" />
+  <br/>
+  <!-- DevOps & Tools -->
+  <img src="https://skillicons.dev/icons?i=jenkins,git,github,gitlab,linux,idea,vscode" />
+</p>
+
+---
+
 ## 📫 Connect
 [💼 LinkedIn](https://linkedin.com/in/salahbkd)  
 [📧 Email](mailto:salaheddine.boukadi@outlook.com)  
