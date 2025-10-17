@@ -37,8 +37,11 @@
 ---
 
 ## 📫 Connect
-[💼 LinkedIn](https://linkedin.com/in/salahbkd)  
-[📧 Email](mailto:salaheddine.boukadi@outlook.com)  
+
+<p align="left">
+  <a href="mailto:salaheddine.boukadi@outlook.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
+  <a href="https://linkedin.com/in/salahbkd"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+</p>
 
 ---
 
