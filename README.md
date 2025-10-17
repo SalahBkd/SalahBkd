@@ -33,7 +33,7 @@
   <img src="https://skillicons.dev/icons?i=react,redux,angular,typescript,javascript,html,css,tailwind,jest" />
 </p>
 
-### ⚙️ DevOps & Tools
+### ⚙️ DevSecOps & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,linux,docker,kubernetes,jenkins,github,gitlab,bitbucket,aws,idea,vscode" />
 </p>
