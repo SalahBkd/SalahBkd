@@ -44,10 +44,10 @@
 ## 📫 Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/salah-eddine-boukadi-21ba98169/">
+  <a href="https://www.linkedin.com/in/salah-eddine-boukadi-21ba98169/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:salaheddine.boukadi@outlook.com">
+  <a href="mailto:salaheddine.boukadi@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
   </a>
 </p>
