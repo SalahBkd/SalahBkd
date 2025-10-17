@@ -24,7 +24,6 @@
 ## 📫 Connect
 [💼 LinkedIn](https://linkedin.com/in/salahbkd)  
 [📧 Email](mailto:salaheddine.boukadi@outlook.com)  
-[🌐 Portfolio](https://bit.ly/3vL68km)
 
 ---
 
