@@ -23,19 +23,21 @@
 
 ## 🧰 Tech Stack
 
+### 🖥️ Backend
 <p align="left">
-  <!-- Backend -->
-  ### 🖥️ Backend
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,kafka,postgres,mongodb" />
-  <br/>
-  <!-- Frontend -->
-  ### 🖥️ Frontend
+</p>
+
+### 💻 Frontend
+<p align="left">
   <img src="https://skillicons.dev/icons?i=react,redux,angular,typescript,javascript,html,css,tailwind,jest" />
-  <br/>
-  <!-- DevOps & Tools -->
-  ### ⚙️ DevOps & Tools
+</p>
+
+### ⚙️ DevOps & Tools
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,linux,docker,jenkins,github,gitlab,bitbucket,aws,idea,vscode" />
 </p>
+
 
 ---
 
