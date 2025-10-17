@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Salaheddine Boukadi  
 
-💼 **Software Engineer & Tech Lead** with nearly 4 years of experience delivering scalable **digital banking systems**.  
+💼 **Senior Software Engineer** with nearly 4 years of experience delivering scalable **digital banking systems**.  
 ⚙️ Passionate about **software craftsmanship**, and both **backend and frontend development**.  
 🚀 Focused on building reliable microservices using **Spring Eco-System and React along with DevSecOps practices**.
 
