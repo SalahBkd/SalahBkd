@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Salaheddine Boukadi  
 
 💼 **Software Engineer** with nearly 4 years of experience delivering scalable **digital banking systems**.  
-⚙️ Passionate about **software craftsmanship**, and both **backend and frontend development**.  
+⚙️ Passionate about **software craftsmanship**, **full-stack development**, and **Generative AI** innovation.
 🚀 Focused on building reliable microservices using **Spring Eco-System and React along with DevSecOps practices**.
 
 ---
@@ -9,7 +9,7 @@
 ## 🧠 What I’m Exploring
 - Generative AI integrations
 - Event-driven architectures
-- Secure and reactive microservices with Spring Cloud  
+- Secure and reactive microservices with Spring Cloud and React
 - Cloud-native CI/CD and DevSecOps best practices 
 
 ---
