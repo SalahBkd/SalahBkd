@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Salaheddine Boukadi  
 
-💼 **Software Engineer** with nearly 4 years of experience delivering scalable **digital banking systems**.  
+💼 **Software Engineer** with nearly 4 years of experience delivering scalable **digital banking systems**.
+
 ⚙️ Passionate about **software craftsmanship**, **full-stack development**, and **Generative AI** innovation.
+
 🚀 Focused on building reliable microservices using **Spring Eco-System and React along with DevSecOps practices**.
 
 ---
