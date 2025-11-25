@@ -1,8 +1,8 @@
 # Hi, I'm Salaheddine Boukadi  
 
-💼 **Software Engineer** with nearly 4 years of experience delivering scalable **digital banking systems**.<br/>
-⚙️ Passionate about **software craftsmanship**, **full-stack development**, and **AI** innovation.<br/>
-🚀 Focused on building reliable microservices using **Spring Eco-System and React along with DevSecOps practices**.
+**Software Engineer** with nearly 4 years of experience delivering scalable **digital banking systems**.<br/>
+Passionate about **software craftsmanship**, **full-stack development**, and **AI** innovation.<br/>
+Focused on building reliable microservices using **Spring Eco-System and React along with DevSecOps practices**.
 
 ---
 
@@ -15,9 +15,9 @@
 ---
 
 ## About Me
-- 🌍 Based in Casablanca, Morocco  
-- 🧩 Proven experience across multiple banking clients
-- 🎯 Always seeking to blend solid engineering with creative problem-solving  
+- Based in Casablanca, Morocco  
+- Proven experience across multiple banking clients
+- Always seeking to blend solid engineering with creative problem-solving  
 
 ---
 
