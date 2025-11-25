@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Salaheddine Boukadi  
+# Hi, I'm Salaheddine Boukadi  
 
 💼 **Software Engineer** with nearly 4 years of experience delivering scalable **digital banking systems**.<br/>
 ⚙️ Passionate about **software craftsmanship**, **full-stack development**, and **AI** innovation.<br/>
@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 What I’m Exploring
+## What I’m Exploring
 - Generative AI integrations
 - Event-driven architectures
 - Secure and reactive microservices with Spring Cloud and React
@@ -14,14 +14,14 @@
 
 ---
 
-## 🧭 About Me
+## About Me
 - 🌍 Based in Casablanca, Morocco  
 - 🧩 Proven experience across multiple banking clients
 - 🎯 Always seeking to blend solid engineering with creative problem-solving  
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ### 🖥️ Backend
 <p align="left">
